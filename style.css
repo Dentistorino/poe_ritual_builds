@@ -30,7 +30,6 @@ h1 {
     height: 100%;
     width: 100%;
     background-image: url("images/Background.png");
-    /* background-color: darkgray; */
     justify-content: space-evenly;
     align-items: center;
 }
@@ -41,43 +40,11 @@ h1 {
     color: rgb(202, 163, 159);
 }
 
-/* .complicated{
-    width: 1000px;
-    height: 1000px;
-    background: tomato;
-    position: absolute;
-    padding: 20px;
-    left: 50%;
-    margin-left: -510px;
-    top: 50%;
-    margin-top: -400px;
-    z-index: -1;
-}
-
-.ptree{
-    width: 100%;
-    object-fit: cover;
-} */
-
-.banner0{
-    width: 25%;
-}
-
-.banner1{
-    width: 100%;
-    height: 100px;
-    object-fit: cover;
+.button1{
+    background-image: url("images/texture-suede_78621-1092.jpg");
     border-radius: 25px;
-}
-
-.bap{
-    position: absolute;
-    left: 20%;
-}
-
-.pfb{
-    position: absolute;
-    right: 20%;
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .footer {

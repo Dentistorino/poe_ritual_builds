@@ -25,7 +25,6 @@ body{
     height: 15%;
     width: 100%;
     justify-content: center;
-    /* align-items: center; */
     background-color:black;
     flex-direction: column;
 }
@@ -78,7 +77,6 @@ h1 {
     font-family: 'Oswald', sans-serif;
     box-sizing: border-box;
     padding-left: 50px;
-    /* padding-bottom: 50px; */
 }
 
 h2 {
@@ -93,10 +91,6 @@ h2 {
 }
 .pros_cons{
     background-image: url("images/Background.png");
-    /* min-height: 100%;
-    width: 100%;
-    height: 100%;
-    background-repeat: repeat-y; */
 }
 
 .discall{
@@ -107,15 +101,12 @@ h2 {
 .home{
     height: 135px;
     width: 200px;
+    color: wheat;
+    font-size: 60px; 
     background: transparent;
     position: absolute;
-    top: 0px;
-    right: 0px;
-}
-
-.homeimg{
-    width: 100%;
-    object-fit: cover;
+    top: 35px;
+    right: 10px;
 }
 
 .up{

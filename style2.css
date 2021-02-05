@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+a:link, a:visited{
+    text-decoration: none;
+}
+             
+a:hover, a:active {
+    text-decoration: underline;
+}
+
+a { color: inherit; } 
+
+body{
+    background-image: url("images/Background.png");
+    font-family: 'Alfa Slab One', cursive;
+    color:rgb(87, 87, 87); 
+    font-size: 30px;
+}
+
+.about1{
+    box-sizing: border-box;
+    margin-top: 15%;
+    text-align: center;
+}
+
+.contact1{
+    box-sizing: border-box;
+    margin-top: 20%;
+    text-align: center;
+}
+
+.references{
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.home{
+    height: 135px;
+    width: 200px;
+    color: wheat;
+    font-size: 60px; 
+    background: transparent;
+    position: absolute;
+    top: 35px;
+    right: 10px;
+}
